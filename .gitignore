@@ -30,7 +30,8 @@ wheels/
 .idea/
 *.swp
 *.swo
-
+.amazonq
+.kiro
 # 日志
 *.log
 
