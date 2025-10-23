@@ -1,0 +1,26 @@
+# 海上风电巡检风险评估系统依赖
+
+# Strands Agents SDK
+strands-agents>=1.12.0
+strands-agents-tools>=0.2.11
+
+# Web 前端
+streamlit>=1.28.0
+
+# 环境变量管理
+python-dotenv
+
+# MCP 协议支持
+mcp
+mcp[cli]
+
+# HTTP 客户端
+httpx
+requests
+
+# 数据处理
+pandas
+numpy
+
+# 日志和配置
+pydantic
